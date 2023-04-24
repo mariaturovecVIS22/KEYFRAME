@@ -151,7 +151,7 @@ header{
   left: 62%;
   width: 29%;
   height: 650px;
-  background-image: url(static/bluth-posters/1banjo.jpg);
+  background-image: url(../bluth-posters/1banjo.jpg);
   background-size: cover;
 }
 .movie-poster2{
@@ -160,7 +160,7 @@ header{
     left: 62%;
     width: 30%;
     height: 650px;
-    background-image: url(static/bluth-posters/2nimh.jpg);
+    background-image: url(../bluth-posters/2nimh.jpg);
     background-size: contain;
     background-repeat: no-repeat;
   }
@@ -170,7 +170,7 @@ header{
     left: 62%;
     width: 30%;
     height: 650px;
-    background-image: url(static/bluth-posters/3american.jpg);
+    background-image: url(../bluth-posters/3american.jpg);
     background-size: contain;
     background-repeat: no-repeat;
   }
@@ -180,7 +180,7 @@ header{
     left: 62%;
     width: 30%;
     height: 650px;
-    background-image: url(static/bluth-posters/4land.jpg);
+    background-image: url(../bluth-posters/4land.jpg);
     background-size: contain;
     background-repeat: no-repeat;
   }
@@ -190,7 +190,7 @@ header{
     left: 62%;
     width: 30%;
     height: 650px;
-    background-image: url(static/bluth-posters/5dogs.jpg);
+    background-image: url(../bluth-posters/5dogs.jpg);
     background-size: contain;
     background-repeat: no-repeat;
   }
@@ -200,7 +200,7 @@ header{
     left: 62%;
     width: 30%;
     height: 650px;
-    background-image: url(static/bluth-posters/6anastasia.jpg);
+    background-image: url(../bluth-posters/6anastasia.jpg);
     background-size: contain;
     background-repeat: no-repeat;
   }
